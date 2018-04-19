@@ -1,4 +1,5 @@
-# udacity
+# Udacity projects
+In this repository you can find my submitted projects for the Udacity Nanodegrees i am / was doing.
 
 ## MLND
 Directory with the projects that have to be done in the Machine Learning Nanodegree Program
