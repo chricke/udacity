@@ -6,3 +6,6 @@ Directory with the project submissions for the **Machine Learning Nanodegree Pro
 
 ## DLND
 Directory with the project submissions for the **Deep Learning Nanodegree Program**.
+
+## AITND
+Directory with the project submissions for the **AI for Trading Nanodegree Program**.
